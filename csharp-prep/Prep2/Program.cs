@@ -30,7 +30,7 @@ class Program
             letter = "D";
         }
 
-        else (percentage < 60)
+        else
         {
             letter = "F";
         }
