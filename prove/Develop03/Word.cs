@@ -24,7 +24,7 @@ class Word
 
     public void ShowWord()
     {
-        // set isHidden to false
+        _isHidden = false;
     }
 
     public bool IsHidden()

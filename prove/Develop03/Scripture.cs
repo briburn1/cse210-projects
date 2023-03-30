@@ -23,7 +23,7 @@ class Scripture
     public void HideWords(int number)
     {
         // hides "number" words at random
-        while (Word._isHidden)
+        while (IsCompletelyHidden())
         {
             int i = 0;
             while (i < 5)
