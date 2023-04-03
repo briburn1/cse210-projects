@@ -15,7 +15,7 @@ class Reference
     public Reference(string book, string chapter, string verse, string endVerse)
     {
         // constructor for references like Provers 3:5-6
-        _book = book;
+        _book = book; 
         _chapter = chapter;
         _verse = $"{verse}-{endVerse}";
     }

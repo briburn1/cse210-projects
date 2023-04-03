@@ -14,7 +14,7 @@ class Word
         // returns the text of the word or else returns ______
         return _text;
     }
-
+ 
     public void HideWord()
     {
         // set isHidden to true

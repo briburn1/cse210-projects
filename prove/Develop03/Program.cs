@@ -21,10 +21,10 @@ class Program
             // call word.hide with a while loop
         }
 
-        // while()
-        // {
-        //     theScripture.GetDisplayText();
-        //     theScripture.HideWords();
-        // }
+    //     while()
+    //     {
+    //         theScripture.GetDisplayText();
+    //         theWord.HideWord();
+    //     }
     }
 }
